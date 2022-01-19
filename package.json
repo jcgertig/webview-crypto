@@ -1,6 +1,6 @@
 {
-  "name": "webview-crypto",
-  "version": "0.1.11",
+  "name": "@jgertig/webview-crypto",
+  "version": "0.1.12",
   "repository": {
     "type": "git",
     "url": "https://github.com/saulshanabrook/webview-crypto.git"
@@ -37,5 +37,6 @@
     "webpack-shell-plugin": "0.5.0",
     "zuul": "3.11.1",
     "zuul-localtunnel": "nolanlawson/zuul-localtunnel#https"
-  }
+  },
+  "private": false
 }

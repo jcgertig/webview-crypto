@@ -1,4 +1,4 @@
-import serializeError = require("serialize-error");
+import serializeError from "serialize-error";
 import {parse, stringify} from "../src/serializeBinary";
 import {subtle} from "../src/compat";
 
